@@ -112,8 +112,8 @@ Right now I'm channelling all of that engineering thinking into learning:
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-singh-a9144b245)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhprathmesh2406@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prathmesh%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh-singh-a9144b245)
+[![Email](https://img.shields.io/badge/Email-singhprathmesh2406%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhprathmesh2406@gmail.com)
 
 ---
 
